@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **[PM Gati Shakti,Uttarakhand](https://pmgatishakti.uk.gov.in)**
  
- 🌱 I’m currently learning **GSAP, Node.JS, Docker**
+ 🌱 I’m currently learning **GSAP, Node.JS, TypeScript**
 
 💬 Ask me about **React, GSAP or anything [here](https://github.com/salesp07/salesp07/issues)**
 
